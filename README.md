@@ -9,8 +9,8 @@
 ![sunflower](https://user-images.githubusercontent.com/105259348/167655692-6e07468b-6785-4983-a3aa-7fc69f4f0c88.jpg)
 
 
-제  목1
+이희수의 첫 
 ==============
 
-제  목2
+README 작성 
 --------------
